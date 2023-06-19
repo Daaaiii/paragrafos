@@ -1,0 +1,14 @@
+
+.texto {
+  width: 300px;
+  padding: 20px;
+  margin: 40px;
+  border-radius: 10px; 
+}
+
+.padrao {
+  background-color: #f5f5f5;
+}
+.destacado {
+  background-color: #f0cce2;
+}
